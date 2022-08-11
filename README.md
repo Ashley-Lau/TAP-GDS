@@ -18,4 +18,4 @@
 ## Instructions to try the application
 * Simply type in the original url in the textfield in the red rectangle and press the `shorten` button!</br>
 </br>
-![Instructions](./Instructions.png) 
+<img src="./Instructions.png">
